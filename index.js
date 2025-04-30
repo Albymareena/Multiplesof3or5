@@ -6,6 +6,6 @@ let findsum = () => {
         }
     } 
     
-    alert("sum of all  natural numbers below 1000 that are divisible by 3 or 5 is ${sum}");
+    alert(sum);
 
 }
